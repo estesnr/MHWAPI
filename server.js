@@ -1,6 +1,7 @@
 const express = require('express')
 const app = express()
 const PORT = 8000
+const cors = require('cors')
 
 const monsters = {
 'anjanath' : {
@@ -30,6 +31,8 @@ const monsters = {
 }
 }
 
+app.use(cors())
+
 app.get('/', (req, res) => {
     res.sendFile(__dirname + '/index.html')
 })
@@ -49,6 +52,6 @@ app.get('/api/:monst', (req, res) => {
     
 })
 
-app.listen(PORT, () => {
+app.listen(process.env.PORT || PORT, () => {
     console.log(`The server is now running on port ${PORT}`)
 })
