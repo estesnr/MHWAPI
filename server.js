@@ -130,6 +130,30 @@ const monsters = {
     'weakness' : [{'element':'Water***'},{'element':'Ice**'},{'element':'Dragon**'}],
     'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.staticneo.com%2Fw%2Fmonsterhunter%2FUragaan.png&f=1&nofb=1',
 },
+'kirin' : {
+    'name' : 'Kirin',
+    'type' : 'Elder Dragon',
+    'weakness' : [{'element' : 'Fire***'}, {'element':'Water**'},{'element':'Ice**'}],
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmogapedia%2Fimages%2Ff%2Ff5%2FMHW-Kirin_Render_001.png%2Frevision%2Flatest%3Fcb%3D20180217145445%26path-prefix%3Dfr&f=1&nofb=1',
+},
+'kulve taroth' : {
+    'name' : 'Kulve Taroth',
+    'type' : 'Elder Dragon',
+    'weakness' : [{'element':'Water**'},{'element':'Ice***'},{'element':'Dragon**'}],
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmonsterhunterespanol%2Fimages%2Fa%2Fa6%2FMHW-Render_Kulve_Taroth.png%2Frevision%2Flatest%3Fcb%3D20180418212130%26path-prefix%3Des&f=1&nofb=1',
+},
+'kushala daora' : {
+    'name' : 'Kushala Daora',
+    'type' : 'Elder Dragon',
+    'weakness' : [{'element':'Thunder***'},{'element':'Dragon**'}],
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmogapedia%2Fimages%2F0%2F00%2FMHW-Kushala_Daora_Render_001.png%2Frevision%2Flatest%3Fcb%3D20180111183557%26path-prefix%3Dfr&f=1&nofb=1'
+},
+'nergigante' : {
+    'name' : 'Nergigante',
+    'type' : 'Elder Dragon',
+    'weakness' : [{'element':'Thunder***'},{'element':'Dragon**'}],
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.ardent-anima.com%2Fimages%2Fmhw%2Ffull-nergigante.png&f=1&nofb=1'
+},
 'unknown' : {
     'name' : 'unknown',
     'type' : 'unknown',
