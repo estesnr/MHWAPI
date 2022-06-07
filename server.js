@@ -76,6 +76,60 @@ const monsters = {
     'weakness' : [{'element' : 'Thunder***(no mud)'}, {'element' : 'Water***(with mud)'}],
     'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmonsterhunterespanol%2Fimages%2F6%2F62%2FMHW-Render_Jyuratodus.png%2Frevision%2Flatest%3Fcb%3D20171117232545%26path-prefix%3Des&f=1&nofb=1'
 },
+'barroth' : {
+    'name' : 'Barroth',
+    'type' : 'Brute Wyvern',
+    'weakness' : [{'element' : 'Water***(with mud)'}, {'element' : 'Fire***(no mud)'}, {'element' : 'Ice**'}],
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmogapedia%2Fimages%2F5%2F56%2FMHW-Barroth_Render_001.png%2Frevision%2Flatest%3Fcb%3D20171012152627%26path-prefix%3Dfr&f=1&nofb=1'
+},
+'great girros' : {
+    'name' : 'Great Girros',
+    'type' : 'Fanged Wyvern',
+    'weakness' : [{'element' : 'Water***'}, {'element' : 'Fire**'}, {'element':'Ice**'}],
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmonsterhunter%2Fimages%2F4%2F4c%2FMHW-Great_Girros_Render_001.png%2Frevision%2Flatest%3Fcb%3D20171112140027&f=1&nofb=1',
+},
+'great jagras' : {
+    'name' : 'Great Jagras',
+    'type' : 'Fanged Wyvern',
+    'weakness' : [{'element' : 'Fire***'}, {'element':'Thunder**'},{'element':'Ice**'}],
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmonsterhunterwikiita%2Fimages%2Ff%2Ff5%2FMHW-Great_Jagras_Render_001.png%2Frevision%2Flatest%3Fcb%3D20190907110251%26path-prefix%3Dit&f=1&nofb=1',
+},
+'kulu ya ku' : {
+    'name' : 'Kulu Ya Ku',
+    'type' : 'Bird Wyvern',
+    'weakness' : [{'element':'Fire**'},{'element':'Ice**'},{'element':'Water***'},{'element':'Thunder**'},{'element':'Dragon**'}],
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmonsterhunterespanol%2Fimages%2Fb%2Fb4%2FMHW-Render_Kulu-Ya-Ku.png%2Frevision%2Flatest%3Fcb%3D20171117144422%26path-prefix%3Des&f=1&nofb=1',
+},
+'lavasioth' : {
+    'name' : 'Lavasioth',
+    'type' : 'Piscine Wyvern',
+    'weakness' : [{'element' : 'Water***(**When hardened)'},{'element':'Thunder**(not Hardened)'},{'element':'Ice**(not Hardened)'}],
+    'img' : 'https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-lavasioth_render_001.png',
+},
+'pukei pukei' : {
+    'name' : 'Pukei Pukei',
+    'type' : 'Flying Wyvern',
+    'weakness' : [{'element':'Thunder***'},{'element':'Fire**'},{'element':'Ice**'}],
+    'img' : 'https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-pukei-pukei_render_001.png'
+},
+'radobaan' : {
+    'name' : 'Radobaan',
+    'type' : 'Brute Wyvern',
+    'weakness' : [{'element' : 'Dragon***'},{'element':'Ice**'}],
+    'img' : 'https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-radobaan_render_001.png'
+},
+'tzitzi-ya-ku' : {
+    'name' : 'Tzitzi-Ya-Ku',
+    'type' : 'Bird Wyvern',
+    'weakness' : [{'element':'Fire**'},{'element':'Water**'},{'element':'Thunder***'},{'element':'Ice***'},{'element':'Dragon**'}],
+    'img' : 'https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-tzitzi-ya-ku_render_001.png'
+},
+'uragaan' : {
+    'name' : 'Uragaan',
+    'type' : 'Brute Wyvern',
+    'weakness' : [{'element':'Water***'},{'element':'Ice**'},{'element':'Dragon**'}],
+    'img' : 'https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-uragaan_render_001.png',
+},
 'unknown' : {
     'name' : 'unknown',
     'type' : 'unknown',
