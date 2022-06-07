@@ -104,31 +104,55 @@ const monsters = {
     'name' : 'Lavasioth',
     'type' : 'Piscine Wyvern',
     'weakness' : [{'element' : 'Water***(**When hardened)'},{'element':'Thunder**(not Hardened)'},{'element':'Ice**(not Hardened)'}],
-    'img' : 'https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-lavasioth_render_001.png',
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.ardent-anima.com%2Fimages%2Fmhw%2Ffull-lavasioth.png&f=1&nofb=1',
 },
 'pukei pukei' : {
     'name' : 'Pukei Pukei',
     'type' : 'Flying Wyvern',
     'weakness' : [{'element':'Thunder***'},{'element':'Fire**'},{'element':'Ice**'}],
-    'img' : 'https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-pukei-pukei_render_001.png'
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmonsterhunter%2Fimages%2Fe%2Fe3%2FMHW-Pukei-Pukei_Render_001.png%2Frevision%2Flatest%3Fcb%3D20171011151724&f=1&nofb=1'
 },
 'radobaan' : {
     'name' : 'Radobaan',
     'type' : 'Brute Wyvern',
     'weakness' : [{'element' : 'Dragon***'},{'element':'Ice**'}],
-    'img' : 'https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-radobaan_render_001.png'
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmonsterhunter%2Fimages%2Fd%2Fd3%2FMHW-Radobaan_Render_001.png%2Frevision%2Flatest%3Fcb%3D20171112152824&f=1&nofb=1'
 },
 'tzitzi-ya-ku' : {
     'name' : 'Tzitzi-Ya-Ku',
     'type' : 'Bird Wyvern',
     'weakness' : [{'element':'Fire**'},{'element':'Water**'},{'element':'Thunder***'},{'element':'Ice***'},{'element':'Dragon**'}],
-    'img' : 'https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-tzitzi-ya-ku_render_001.png'
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fdrachen%2Fimages%2Fe%2Fe4%2FMHW-Tzitzi-Ya-Ku.png%2Frevision%2Flatest%3Fcb%3D20171016072016%26path-prefix%3Dde&f=1&nofb=1'
 },
 'uragaan' : {
     'name' : 'Uragaan',
     'type' : 'Brute Wyvern',
     'weakness' : [{'element':'Water***'},{'element':'Ice**'},{'element':'Dragon**'}],
-    'img' : 'https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-uragaan_render_001.png',
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.staticneo.com%2Fw%2Fmonsterhunter%2FUragaan.png&f=1&nofb=1',
+},
+'kirin' : {
+    'name' : 'Kirin',
+    'type' : 'Elder Dragon',
+    'weakness' : [{'element' : 'Fire***'}, {'element':'Water**'},{'element':'Ice**'}],
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmogapedia%2Fimages%2Ff%2Ff5%2FMHW-Kirin_Render_001.png%2Frevision%2Flatest%3Fcb%3D20180217145445%26path-prefix%3Dfr&f=1&nofb=1',
+},
+'kulve taroth' : {
+    'name' : 'Kulve Taroth',
+    'type' : 'Elder Dragon',
+    'weakness' : [{'element':'Water**'},{'element':'Ice***'},{'element':'Dragon**'}],
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmonsterhunterespanol%2Fimages%2Fa%2Fa6%2FMHW-Render_Kulve_Taroth.png%2Frevision%2Flatest%3Fcb%3D20180418212130%26path-prefix%3Des&f=1&nofb=1',
+},
+'kushala daora' : {
+    'name' : 'Kushala Daora',
+    'type' : 'Elder Dragon',
+    'weakness' : [{'element':'Thunder***'},{'element':'Dragon**'}],
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmogapedia%2Fimages%2F0%2F00%2FMHW-Kushala_Daora_Render_001.png%2Frevision%2Flatest%3Fcb%3D20180111183557%26path-prefix%3Dfr&f=1&nofb=1'
+},
+'nergigante' : {
+    'name' : 'Nergigante',
+    'type' : 'Elder Dragon',
+    'weakness' : [{'element':'Thunder***'},{'element':'Dragon**'}],
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.ardent-anima.com%2Fimages%2Fmhw%2Ffull-nergigante.png&f=1&nofb=1'
 },
 'unknown' : {
     'name' : 'unknown',
