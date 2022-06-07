@@ -154,6 +154,36 @@ const monsters = {
     'weakness' : [{'element':'Thunder***'},{'element':'Dragon**'}],
     'img' : 'https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.ardent-anima.com%2Fimages%2Fmhw%2Ffull-nergigante.png&f=1&nofb=1'
 },
+'lunastra' : {
+    'name' : 'Lunastra',
+    'type' : 'Elder Dragon',
+    'weakness' : [{'element':'Dragon**'},{'element':'Ice***'}],
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmonsterhunterwikiita%2Fimages%2F3%2F33%2FMhw-lunastra_render_001.png%2Frevision%2Flatest%3Fcb%3D20191205152624%26path-prefix%3Dit&f=1&nofb=1'
+},
+'teostra' : {
+    'name' : 'Teostra',
+    'type' : 'Elder Dragon',
+    'weakness' : [{'element':'Water***'},{'element':'Ice***'}],
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmonsterhunter%2Fimages%2Fe%2Fe0%2FMHW-Teostra_Render_001.png%2Frevision%2Flatest%3Fcb%3D20180111134020&f=1&nofb=1'
+},
+'vaal hazak' : {
+    'name' : 'Vaal Hazak',
+    'type' : 'Elder Dragon',
+    'weakness' : [{'element':'Fire***'},{'element':'Dragon***'}],
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmonsterhunter%2Fimages%2F5%2F54%2FMHW-Vaal_Hazak_Render_001.png%2Frevision%2Flatest%3Fcb%3D20180214002433&f=1&nofb=1'
+},
+"xeno'jiiva" : {
+    'name' : "Xeno'jiiva",
+    'type' : 'Elder Dragon',
+    'weakness' : [{'element':'Poison'}],
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fdrachen%2Fimages%2F2%2F23%2FXeno-jiiva.png%2Frevision%2Flatest%3Fcb%3D20180222090546%26path-prefix%3Dde&f=1&nofb=1'
+},
+'zorah magdaros' : {
+    'name' : 'Zorah Magdoros',
+    'type' : 'Elder Dragon',
+    'weakness' : [{'element':'Dragon***'},{'element':'Water***'}],
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmonsterhunterespanol%2Fimages%2Fe%2Fe5%2FMHW-Render_Zorah_Magdaros_001.png%2Frevision%2Flatest%3Fcb%3D20170921144650%26path-prefix%3Des&f=1&nofb=1'
+},
 'unknown' : {
     'name' : 'unknown',
     'type' : 'unknown',
