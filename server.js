@@ -165,7 +165,7 @@ const monsters = {
     'name' : 'Nergigante',
     'type' : 'Elder Dragon',
     'weakness' : [{'element':'Thunder***'},{'element':'Dragon**'}],
-    'img' : 'https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.ardent-anima.com%2Fimages%2Fmhw%2Ffull-nergigante.png&f=1&nofb=1'
+    'img' : 'https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-nergigante_render_001.png'
 },
 'lunastra' : {
     'name' : 'Lunastra',
