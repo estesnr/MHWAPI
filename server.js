@@ -93,61 +93,70 @@ const monsters = {
     'type' : 'Brute Wyvern',
     'weakness' : [{'element' : 'Water***(with mud)'}, {'element' : 'Fire***(no mud)'}, {'element' : 'Ice**'}],
     'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmogapedia%2Fimages%2F5%2F56%2FMHW-Barroth_Render_001.png%2Frevision%2Flatest%3Fcb%3D20171012152627%26path-prefix%3Dfr&f=1&nofb=1',
-    'desc' : 'Barroths seek out ants, their favorite snack, and mark their territory with mud. They attack potential rivals with their devastating charging attack.'
+    'desc' : 'Barroths seek out ants, their favorite snack, and mark their territory with mud. They attack potential rivals with their devastating charging attack.',
 },
 'great girros' : {
     'name' : 'Great Girros',
     'type' : 'Fanged Wyvern',
     'weakness' : [{'element' : 'Water***'}, {'element' : 'Fire**'}, {'element':'Ice**'}],
     'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmonsterhunter%2Fimages%2F4%2F4c%2FMHW-Great_Girros_Render_001.png%2Frevision%2Flatest%3Fcb%3D20171112140027&f=1&nofb=1',
+    'desc' : 'A monster that scavenges for meals dropped from the Coral Highlands. It acts as the alpha leader of a Girros pack, and sports giant fangs that paralyze its prey.',
 },
 'great jagras' : {
     'name' : 'Great Jagras',
     'type' : 'Fanged Wyvern',
     'weakness' : [{'element' : 'Fire***'}, {'element':'Thunder**'},{'element':'Ice**'}],
     'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmonsterhunterwikiita%2Fimages%2Ff%2Ff5%2FMHW-Great_Jagras_Render_001.png%2Frevision%2Flatest%3Fcb%3D20190907110251%26path-prefix%3Dit&f=1&nofb=1',
+    'desc' : 'The pack leader of the Jagras. When hungry, Great Jagras are known to attack monsters even stronger than themselves. It balloons to unbelievable proportions after swallowing prey.',
 },
 'kulu ya ku' : {
     'name' : 'Kulu Ya Ku',
     'type' : 'Bird Wyvern',
     'weakness' : [{'element':'Fire**'},{'element':'Ice**'},{'element':'Water***'},{'element':'Thunder**'},{'element':'Dragon**'}],
     'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmonsterhunterespanol%2Fimages%2Fb%2Fb4%2FMHW-Render_Kulu-Ya-Ku.png%2Frevision%2Flatest%3Fcb%3D20171117144422%26path-prefix%3Des&f=1&nofb=1',
+    'desc' : "An odd bird wyvern that has developed limbs capable of carrying weapons. It's been spotted stealing eggs from nests found in the Ancient Forest and Wildspire Waste.",
 },
 'lavasioth' : {
     'name' : 'Lavasioth',
     'type' : 'Piscine Wyvern',
     'weakness' : [{'element' : 'Water***(**When hardened)'},{'element':'Thunder**(not Hardened)'},{'element':'Ice**(not Hardened)'}],
     'img' : 'https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.ardent-anima.com%2Fimages%2Fmhw%2Ffull-lavasioth.png&f=1&nofb=1',
+    'desc' : 'Lavasioth utilizes molten lava as armor. They are extremely aggressive and will attack without prejudice until the threat has been eliminated.',
 },
 'pukei pukei' : {
     'name' : 'Pukei Pukei',
     'type' : 'Flying Wyvern',
     'weakness' : [{'element':'Thunder***'},{'element':'Fire**'},{'element':'Ice**'}],
-    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmonsterhunter%2Fimages%2Fe%2Fe3%2FMHW-Pukei-Pukei_Render_001.png%2Frevision%2Flatest%3Fcb%3D20171011151724&f=1&nofb=1'
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmonsterhunter%2Fimages%2Fe%2Fe3%2FMHW-Pukei-Pukei_Render_001.png%2Frevision%2Flatest%3Fcb%3D20171011151724&f=1&nofb=1',
+    'desc' : "A bird wyvern known to possess poisonous toxins in its body. It's been spotted storing scatternuts in its mouth or tail, coating them with poison and spitting them out at threats.",
 },
 'radobaan' : {
     'name' : 'Radobaan',
     'type' : 'Brute Wyvern',
     'weakness' : [{'element' : 'Dragon***'},{'element':'Ice**'}],
-    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmonsterhunter%2Fimages%2Fd%2Fd3%2FMHW-Radobaan_Render_001.png%2Frevision%2Flatest%3Fcb%3D20171112152824&f=1&nofb=1'
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmonsterhunter%2Fimages%2Fd%2Fd3%2FMHW-Radobaan_Render_001.png%2Frevision%2Flatest%3Fcb%3D20171112152824&f=1&nofb=1',
+    'desc' : 'A gigantic brute wyvern that eats the bones of carcasses found in the Rotten Vale, using some of it as armor. It also rolls into a ball as a form of attack and transportation.',
 },
 'tzitzi-ya-ku' : {
     'name' : 'Tzitzi-Ya-Ku',
     'type' : 'Bird Wyvern',
     'weakness' : [{'element':'Fire**'},{'element':'Water**'},{'element':'Thunder***'},{'element':'Ice***'},{'element':'Dragon**'}],
-    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fdrachen%2Fimages%2Fe%2Fe4%2FMHW-Tzitzi-Ya-Ku.png%2Frevision%2Flatest%3Fcb%3D20171016072016%26path-prefix%3Dde&f=1&nofb=1'
+    'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fdrachen%2Fimages%2Fe%2Fe4%2FMHW-Tzitzi-Ya-Ku.png%2Frevision%2Flatest%3Fcb%3D20171016072016%26path-prefix%3Dde&f=1&nofb=1',
+    'desc' : 'This odd monster blinds both prey and enemies with a special pulsing organ near its head. It then uses its strong legs to deliver finishing blows.',
 },
 'uragaan' : {
     'name' : 'Uragaan',
     'type' : 'Brute Wyvern',
     'weakness' : [{'element':'Water***'},{'element':'Ice**'},{'element':'Dragon**'}],
     'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.staticneo.com%2Fw%2Fmonsterhunter%2FUragaan.png&f=1&nofb=1',
+    'desc' : "Large Brute Wyverns that feed on ore, using their mighty jaws to crush solid rock to powder. They've been known to confront Lavasioths over territory disputes",
 },
 'kirin' : {
     'name' : 'Kirin',
     'type' : 'Elder Dragon',
     'weakness' : [{'element' : 'Fire***'}, {'element':'Water**'},{'element':'Ice**'}],
     'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmogapedia%2Fimages%2Ff%2Ff5%2FMHW-Kirin_Render_001.png%2Frevision%2Flatest%3Fcb%3D20180217145445%26path-prefix%3Dfr&f=1&nofb=1',
+    'desc' : "Kirin are so rarely sighted that little is known of their ecology. It's been said they envelop themselves in pure electricity when they are provoked. The lightning a Kirin cloaks itself with has been confirmed to toughen its skin. The key to hunting a Kirin lies in staggering it, using Elderseal weapons, and protecting yourself from and avoiding its lightning attacks.",
 },
 'kulve taroth' : {
     'name' : 'Kulve Taroth',
