@@ -12,3 +12,6 @@ Added additional entries of monsters. Included png images of each monster.
 
 6/6/2022:
 Completed entries for monsters in vanilla mhw (minus elder dragons)
+
+6/9/2022: 
+Began the process of adding the official descriptions for monsters. 
