@@ -107,7 +107,7 @@ const monsters = {
     'img' : 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fmogapedia%2Fimages%2F5%2F56%2FMHW-Barroth_Render_001.png%2Frevision%2Flatest%3Fcb%3D20171012152627%26path-prefix%3Dfr&f=1&nofb=1',
     'desc' : 'Barroths seek out ants, their favorite snack, and mark their territory with mud. They attack potential rivals with their devastating charging attack.',
     'logo' : 'https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/MHW-Barroth_Icon.png'
-} 
+},
 'great girros' : {
     'name' : 'Great Girros',
     'type' : 'Fanged Wyvern',
